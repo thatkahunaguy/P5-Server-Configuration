@@ -57,6 +57,7 @@ Note that I found [this guide](https://github.com/stueken/FSND-P5_Linux-Server-C
 * oauth2client
 * sqlalchemy
 * python-psycopg2
+* NOTE: this repository should be pulled into the directory /var/www/Catalog on an Apache2 webserver (ie the directory Catalog here with the application files will be /var/www/Catalog/Catalog  Virtual environment files are in /var/www/Catalog/Catalog/catalog
 
 ***
 ## DOCUMENTATION BELOW IS PROVIDED IF NEEDED FOR THE CATALOG APP(P3) DEPLOYED IN THIS PROJECT
